@@ -1,0 +1,15 @@
+{
+  "name": "peer-deps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "check": "depcheck"
+  },
+  "devDependencies": {
+    "@upleveled/eslint-config-upleveled": "^4.0.4"
+  },
+  "dependencies": {
+    "depcheck": "^1.4.3"
+  }
+}
